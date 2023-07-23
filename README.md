@@ -1,5 +1,5 @@
 # Truck-Packing-Bin-Packing
-This repository contains the binary linear programming (BLP) implementations of the Truck Packing Problem (TPP) which is a variation of the [Bin Packing Problem](https://en.wikipedia.org/wiki/Bin_packing_problem). The Gurobi is requaired!
+This repository contains the binary linear programming (BLP) implementations of the Truck Packing Problem (TPP) which is a variation of the [Bin Packing Problem](https://en.wikipedia.org/wiki/Bin_packing_problem). The Python and Gurobi are used!
 
 The TPP optimizes the placing of rolls within the trucks so that the specific load is maximum and all rolls are distributed among the trucks. 
 Here, the specific load is the ratio of the total weight of all rolls to the maximum allowable load of all used trucks.
