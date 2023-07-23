@@ -1,6 +1,9 @@
 # Truck-Packing-Bin-Packing
-This repository contains implementations for the strip packing problem.
+This repository contains the binary linear programming (BLP) implementations of Truck Packing Problem (TPP) which is a variation of Bin Packing Problem. 
 
-The strip packing problem optimizes the placing of rectangles in a strip of fixed width and variable length, such that the overall length of the strip is minimised.
+The TPP optimizes the placing of rolls within the trucks so that the specific load is maximum and all rolls are distributed among the trucks. 
+The <\it specific load> is the ratio of the total weight of all rolls to the maximum allowable load of all used trucks.
+
+More detailes abouunt
 
 https://github.com/radubuzatu/Truck-Packing-Bin-Packing/blob/main/Truck%20Packing%20description.pdf
